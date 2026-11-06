@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vite/
+*.local
+
+# role: ignore build output and dependencies.
+# invariants: dist/ and node_modules/ never committed; no generated asset paths added here.
+# owner milestone: M1
